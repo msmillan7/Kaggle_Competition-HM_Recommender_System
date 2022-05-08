@@ -5,8 +5,8 @@ Kaggle Challenge: For this challenge you are given the purchase history of custo
 
 Works with the parquets generated from 01_processing from commit "integrate collab_filter results into ranking pipeline: e79720d8cfd7ecdf49894be75755f5eb134ad8c8":
 
-* articles_sample_gt15transactions.parquet  
-* customers_sample_gt15transactions.parquet  
-* transactions_train_sample_gt15transactions.parquet  
+* articles_sample_gt0transactions.parquet  
+* customers_sample_gt0transactions.parquet  
+* transactions_train_sample_gt0transactions.parquet  
 * customers_recommended_articles.csv  
 * val_ground_truth.pkl  
