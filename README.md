@@ -15,7 +15,7 @@ The content of this repository is explained below:
   
 -  /Rough Code: Contains rough notebooks and files used during the development of the project.
  
-- root: Contains the four final pipelines of the project. These pipelines are adapted from those written by radekosmulski that can be accessed [here](https://github.com/radekosmulski/personalized_fashion_recs.  
+- root: Contains the four final pipelines of the project. These pipelines are adapted from those written by radekosmulski that can be accessed at https://github.com/radekosmulski/personalized_fashion_recs.  
   -  00_EDA.ipynb: Exploratory Data Analysis of the training data.
   -  01_preprocessing.ipynb: Memory reducing, data cleaning, data subsetting and generation of training and validation datasets.
   -  02_collaborative-filtering.ipynb: Candidate Generation phase. Selection of potential relevan items via Collaborative Filtering.
