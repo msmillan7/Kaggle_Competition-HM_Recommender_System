@@ -1,6 +1,6 @@
 # Kaggle Competition: H&M Recommender System
 
-This project provides a solution for the H&M Recommender System chanllenge from Kaggle. The challenge consists of being able to predict what articles each customer will purchase in the 7-day period immediately after the training data ends. For so, Kaggle provides the purchase history of customers across time, along with supporting metadata. For further details, visit the competition's website below:
+This project provides a solution for the H&M Recommender System challenge from Kaggle. The challenge consists of predicting what articles each customer will purchase in the 7-day period immediately after the training data ends. For so, Kaggle provides the purchase history of customers across time, along with supporting metadata. For further details, visit the competition's website below:
 
 Link to the competition: https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview
 
