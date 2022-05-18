@@ -18,5 +18,5 @@ The content of this repository is explained below:
 - root: Contains the four final pipelines of the project. These pipelines are adapted from those written by radekosmulski that can be accessed at https://github.com/radekosmulski/personalized_fashion_recs.  
   -  00_EDA.ipynb: Exploratory Data Analysis of the training data.
   -  01_preprocessing.ipynb: Memory reducing, data cleaning, data subsetting and generation of training and validation datasets.
-  -  02_collaborative-filtering.ipynb: Candidate Generation phase. Selection of potential relevan items via Collaborative Filtering.
+  -  02_collaborative-filtering.ipynb: Candidate Generation phase. Selection of potential relevant items via Collaborative Filtering.
   -  03_ranking.ipynb: Ranking phase using a LightGBM algorithm to predict the final 12 items for each customer.
