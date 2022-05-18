@@ -8,7 +8,6 @@ The solution we are providing to this challenge is a Rcommender System, consisti
 
 The content of this repository is explained below:
 
-Folders:
 - /data: 
   -  Note: The original datasets provided by Kaggle (customers.csv, transactions.csv, articles.csv) are not included in this respository. Access to them is available through the link to the competition provided above.
   -  intermediate outputs generated during the execution of the pipelines.
